@@ -4,11 +4,20 @@
 
 ### Bio
 
+In the news: [Interview "Gli Espatriati"](https://www.rsi.ch/rete-uno/programmi/informazione/albachiara/gli-espatriati/Simone-Franzi-9760267.html), Interview to the Swiss-Italian Public Radio Station (RSI), 1-12-2017.
+
+
 ### Research
 
 ### Teaching
 
+  Bachelor Level (undergraduate) Courses:
+    UAP/REAL 2004: "Principles of Real Estate"
+    
+
 ### Publications
+
+
 
 ### Vitae
 
