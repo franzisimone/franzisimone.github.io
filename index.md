@@ -9,6 +9,11 @@ In the news: [Interview "Gli Espatriati"](https://www.rsi.ch/rete-uno/programmi/
 
 ### Research
 
+Political economy of trade
+
+Financial resilience and innovation
+
+
 ### Teaching
 
   Bachelor Level (undergraduate) Courses:
