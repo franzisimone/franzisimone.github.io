@@ -13,6 +13,12 @@ Political economy of trade
 
 Financial resilience and innovation
 
+Democratic theory and democratization
+
+History of international cooperation
+
+Urban studies: Global cities and real estate
+
 
 ### Teaching
 
