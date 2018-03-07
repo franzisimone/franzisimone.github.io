@@ -4,26 +4,26 @@
 
 ### Bio
 
-In the news: [Interview "Gli Espatriati"](https://www.rsi.ch/rete-uno/programmi/informazione/albachiara/gli-espatriati/Simone-Franzi-9760267.html), Interview to the Swiss-Italian Public Radio Station (RSI), 1-12-2017.
+#### In the news: [Interview "Gli Espatriati"](https://www.rsi.ch/rete-uno/programmi/informazione/albachiara/gli-espatriati/Simone-Franzi-9760267.html), Interview to the Swiss-Italian Public Radio Station (RSI), 1-12-2017.
 
 
 ### Research
 
-Political economy of trade
+#### Political economy of trade
 
-Financial resilience and innovation
+#### Financial resilience and innovation
 
-Democratic theory and democratization
+#### Democratic theory and democratization
 
-History of international cooperation
+#### History of international cooperation
 
-Urban studies: Global cities and real estate
+#### Urban studies: Global cities and real estate
 
 
 ### Teaching
 
-  Bachelor Level (undergraduate) Courses:
-    UAP/REAL 2004: "Principles of Real Estate"
+  #### Bachelor Level (undergraduate) Courses:
+     #### UAP/REAL 2004: "Principles of Real Estate"
     
 
 ### Publications
@@ -32,5 +32,5 @@ Urban studies: Global cities and real estate
 
 ### Vitae
 
-#### Contact and Links
+### Contact and Links
 
