@@ -2,6 +2,28 @@
 <html>
 <body>
 <div class="body" style="margin-top:50px; margin-left: 200px; margin-right: 200px; margin-bottom:50px;">
+	
+function openTab(evt, TabName) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+} 
+	
 
 <head>
 <title> Simone Franzi's Webpage </title>
@@ -21,9 +43,9 @@
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="open(event, 'Bio')">Bio</button>
-  <button class="tablinks" onclick="openCity(event, 'Research Areas')">Research Areas</button>
-  <button class="tablinks" onclick="openCity(event, 'Publications')">Publications</button>
+  <button class="tablinks" onclick="openTab(event, 'Bio')">Bio</button>
+  <button class="tablinks" onclick="openTab(event, 'Research Areas')">Research Areas</button>
+  <button class="tablinks" onclick="openTab(event, 'Publications')">Publications</button>
 </div>
 	
 <!-- Tab content -->
