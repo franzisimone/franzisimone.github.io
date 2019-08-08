@@ -20,7 +20,7 @@
 <br />
 <br />
 	
-<script>
+<script>	
 	function openTab(evt, taName) {
  	 // Declare all variables
 	  var i, tabcontent, tablinks;
@@ -41,11 +41,16 @@
   	document.getElementById(taName).style.display = "block";
   	evt.currentTarget.className += " active";
 	} 
+	
+	// Get the element with id="defaultOpen" and click on it
+	document.getElementById("defaultOpen").click();
  </script> 
 
+
+	
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'Biography')">Biography</button>
+  <button class="tablinks" onclick="openTab(event, 'Biography')"id="defaultOpen">Biography</button>
   <button class="tablinks" onclick="openTab(event, 'Research Areas')">Research Areas</button>
   <button class="tablinks" onclick="openTab(event, 'Publications')">Publications</button>
   <button class="tablinks" onclick="openTab(event, 'Talks')">Talks</button>
